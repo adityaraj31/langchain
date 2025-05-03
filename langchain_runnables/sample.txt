@@ -1,0 +1,9 @@
+LangChain is an open-source framework designed to simplify the creation of applications using large language models (LLMs). It offers tools to build language model applications with components such as prompt templates, chains, agents, and memory.
+
+FAISS (Facebook AI Similarity Search) is a library that enables efficient similarity search and clustering of dense vectors. It is often used to build vector stores for semantic search applications.
+
+The HuggingFace Transformers library provides thousands of pre-trained models for natural language processing tasks such as text classification, information extraction, question answering, summarization, translation, and text generation.
+
+Groq is an inference engine that provides extremely fast and low-latency access to open-source large language models such as Llama 3, Mixtral, and Gemma.
+
+This document provides an overview of LangChain, FAISS, HuggingFace, and Groq technologies.
